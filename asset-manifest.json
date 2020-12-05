@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/demo-app/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/demo-app/static/js/main.5385c60b.chunk.js",
-    "main.js.map": "/demo-app/static/js/main.5385c60b.chunk.js.map",
-    "runtime-main.js": "/demo-app/static/js/runtime-main.c87f5de2.js",
-    "runtime-main.js.map": "/demo-app/static/js/runtime-main.c87f5de2.js.map",
-    "static/js/2.6fcc5584.chunk.js": "/demo-app/static/js/2.6fcc5584.chunk.js",
-    "static/js/2.6fcc5584.chunk.js.map": "/demo-app/static/js/2.6fcc5584.chunk.js.map",
-    "static/js/3.ab1bf66e.chunk.js": "/demo-app/static/js/3.ab1bf66e.chunk.js",
-    "static/js/3.ab1bf66e.chunk.js.map": "/demo-app/static/js/3.ab1bf66e.chunk.js.map",
-    "index.html": "/demo-app/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/demo-app/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.6fcc5584.chunk.js.LICENSE.txt": "/demo-app/static/js/2.6fcc5584.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/demo-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/my-demo-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/my-demo-app/static/js/main.5385c60b.chunk.js",
+    "main.js.map": "/my-demo-app/static/js/main.5385c60b.chunk.js.map",
+    "runtime-main.js": "/my-demo-app/static/js/runtime-main.33797497.js",
+    "runtime-main.js.map": "/my-demo-app/static/js/runtime-main.33797497.js.map",
+    "static/js/2.6fcc5584.chunk.js": "/my-demo-app/static/js/2.6fcc5584.chunk.js",
+    "static/js/2.6fcc5584.chunk.js.map": "/my-demo-app/static/js/2.6fcc5584.chunk.js.map",
+    "static/js/3.ab1bf66e.chunk.js": "/my-demo-app/static/js/3.ab1bf66e.chunk.js",
+    "static/js/3.ab1bf66e.chunk.js.map": "/my-demo-app/static/js/3.ab1bf66e.chunk.js.map",
+    "index.html": "/my-demo-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/my-demo-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.6fcc5584.chunk.js.LICENSE.txt": "/my-demo-app/static/js/2.6fcc5584.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-demo-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c87f5de2.js",
+    "static/js/runtime-main.33797497.js",
     "static/js/2.6fcc5584.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.5385c60b.chunk.js"
